@@ -1,2 +1,4 @@
 # hello-world
-My initial place in the Git
+Hi All!
+
+It's my initial place in the Git.
